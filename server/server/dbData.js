@@ -1,1 +1,0 @@
-export const loginPassword = 'mongodb+srv://dp120291ssv:12345@cluster0.qn4moir.mongodb.net/graphql-example?retryWrites=true&w=majority'
